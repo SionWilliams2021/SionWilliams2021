@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Siôn Williams
-- 👀 I’m interested in Conputer Science Degree
+- 👀 I’m interested in Computer Science Degree
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
